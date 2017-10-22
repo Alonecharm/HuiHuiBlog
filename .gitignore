@@ -14,5 +14,5 @@ conf
 .coverage
 /cover
 .gitignore
-static/
-templates/
+app/static/
+app/templates/
