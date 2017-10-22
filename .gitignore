@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+*~
+*.pyc
+*.pyo
+*.so
+*.egg
+*.egg-info
+*.log
+*.log.*
+*.idea
+*.dat
+conf
+.coverage
+/cover
+.gitignore
+static/
+templates/
